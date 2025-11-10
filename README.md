@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-A **Software Engineer** who loves to write code and build innovative solutions. I'm a **Full Stack Developer** with expertise in **mobile** and **web development**, specializing in **Flutter**, **React.js**, and **AI automation**.
+A **Software Engineer** who loves to write code and build innovative solutions. I'm a **Full Stack Software Engineer** with expertise in **mobile**, **web development** and **devops & servers**, specializing in **Flutter**, **React.js**, **AI automation**, and **Cloud Servers (Azure and Hostings)**.
 
 - 🔭 I'm currently working on **AI-driven automation** and **intelligent systems**
 - 🌱 I'm currently learning **Advanced AI/ML** and **Microservices Architecture**
