@@ -18,7 +18,7 @@ A **Software Engineer** who loves to write code and build innovative solutions. 
 - 🔭 I'm currently working on **AI-driven automation** and **intelligent systems**
 - 🌱 I'm currently learning **Advanced AI/ML** and **Microservices Architecture**
 - 💼 Experience with **Flutter, React.js, FastAPI, and WordPress**
-- 🤖 Building automation workflows with **n8n** and **Make.com**
+- 🤖 Building automation workflows with **n8n**
 - 💡 I'm looking to collaborate on **Open Source Projects** and **AI/ML applications**
 - 📫 How to reach me: **ali.amaan1431@gmail.com**
 
@@ -50,7 +50,6 @@ A **Software Engineer** who loves to write code and build innovative solutions. 
 **AI & Automation:**
 - Python
 - n8n
-- Make.com
 - Workflow Automation
 
 **CMS & Tools:**
@@ -60,6 +59,12 @@ A **Software Engineer** who loves to write code and build innovative solutions. 
 - Figma & Adobe XD
 - Linux
 - MS Office
+
+**DevOps:**
+- Docker
+- Azure
+- Azure Container Apps
+- Azure Function Apps
 
 ## Languages and Tools 🛠️
 
@@ -120,20 +125,6 @@ IoT-based waste management system with toxic gas detection and networked contain
 - **Simulation and Modeling of Natural Processes** - Coursera
 - **IELTS**
 
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliamaan126&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliamaan126&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamaan126&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## Let's Connect! 🤝
 
 I'm always interested in collaborating on innovative projects, especially in the areas of:
@@ -145,11 +136,3 @@ I'm always interested in collaborating on innovative projects, especially in the
 Feel free to reach out if you want to discuss technology, collaborate on a project, or just have a chat!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliamaan126&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/aliamaan126">Ali Amaan</a>
-</p>
